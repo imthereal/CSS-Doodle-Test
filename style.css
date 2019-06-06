@@ -2,6 +2,7 @@ body{
   color: #ccc;
   margin: 0;
   min-height, max-height: 100vh!important;
+  min-width, max-width: 100vh!important;
   width, height: 100vh;
   overflow: auto!important;
 }
