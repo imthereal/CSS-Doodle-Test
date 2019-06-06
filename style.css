@@ -1,13 +1,12 @@
 body{
   color: #ccc;
+  margin: 0;
+  width, height: 100vh;
 }
 
-.header {
-  display: flex;
-  position: relative;
+.container {
   width: 100%;
   height: 100%;
-  justify-content: center;
 }
 
 .content {
