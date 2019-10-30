@@ -1,6 +1,7 @@
-document.addEventListener("click", e => e.target.update());
+//For mouseover event
+document.addEventListener("mouseover", e => e.target.update())
+
 /*
-document.addEventListener('click', function(e) {
-  e.target.update && e.target.update();
-});
+FOR ON CLICK
+document.addEventListener("click", e => e.target.update());
 */
