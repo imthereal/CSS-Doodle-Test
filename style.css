@@ -1,5 +1,5 @@
 body{
-  color: #ccc;
+  color: #fff;
   margin: 0;
   min-height, max-height: 100vh!important;
   min-width, max-width: 100vh!important;
@@ -19,7 +19,7 @@ body{
   padding: 10px;
   border-width: 5px;
   border-style: solid;
-  background-color: rgba(0,0,0,.3);
+  background-color: rgba(0,0,0, 0.2);
   transform: translate3d(-50%, -50%, 0);
 }
 
